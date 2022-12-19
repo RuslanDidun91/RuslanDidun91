@@ -45,4 +45,6 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![lucid](https://img.shields.io/badge/-Lucid-05122A?style=flat&logo=lucid)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RuslanDidun&show_icons=true&theme=gotham" alt="RuslanDidun" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=
+RuslanDidun91&show_icons=true&theme=gotham" alt="
+RuslanDidun91" />
