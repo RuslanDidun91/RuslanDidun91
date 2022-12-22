@@ -45,6 +45,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![lucid](https://img.shields.io/badge/-Lucid-05122A?style=flat&logo=lucid)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=
-RuslanDidun91&show_icons=true&theme=gotham" alt="
-RuslanDidun91" />
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuslanDidun91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanDidun91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
