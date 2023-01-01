@@ -50,5 +50,4 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanDidun91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
  <img align="center" alt="GIF" src="https://i.imgur.com/5fRzY36.png" width="600" height="500" />
