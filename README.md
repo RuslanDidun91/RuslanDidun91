@@ -44,6 +44,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![lucid](https://img.shields.io/badge/-Lucid-05122A?style=flat&logo=lucid)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuslanDidun91&theme=dark&background=000000)](https://git.io/streak-stats)
