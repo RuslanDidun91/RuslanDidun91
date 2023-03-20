@@ -34,6 +34,8 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Npm](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)
+
 
 ##### Hoisting, vcs and other technologies
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
