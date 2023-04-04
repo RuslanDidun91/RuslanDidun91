@@ -26,6 +26,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 
 ##### Platforms, Frameworks, and Libraries
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)
 ![Express.JS](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)
@@ -35,6 +36,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)
 
 
 ##### Hoisting, vcs and other technologies
