@@ -26,11 +26,12 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 
 ##### Platforms, Frameworks, and Libraries
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)
 ![Express.JS](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)
-![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-05122A?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
 ![Npm](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
