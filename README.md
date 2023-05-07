@@ -38,11 +38,12 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)
-
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)
 
 ##### Hoisting, vcs and other technologies
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
 ![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm)
