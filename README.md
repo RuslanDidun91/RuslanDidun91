@@ -57,4 +57,5 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuslanDidun91&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanDidun91&layout=compact)](https://github.com/RuslanDidun91/github-readme-stats)
+
  <img align="center" src="https://komarev.com/ghpvc/?username=RuslanDidun91&style=flat-square&color=blue" alt=""/>
