@@ -38,6 +38,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)
 
 ##### Hoisting, vcs and other technologies
