@@ -10,6 +10,7 @@ Welcome to my github profile! All your ⭐️'s are highly appreciated.
 [![Instagram Badge](https://img.shields.io/badge/-wanderlust_unlimited-skyblue?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/wanderlust_unlimited_/)
 [![GitHub Badge](https://img.shields.io/badge/-RuslanDidun-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/RuslanDidun)
 
+
  <img align="center" alt="GIF" src="https://i.imgur.com/dwPjnnM.gif" width="500" height="320" />
  
 ### Skills
